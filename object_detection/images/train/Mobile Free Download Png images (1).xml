@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>Mobile Free Download Png images (1).png</filename>
+	<path>C:\Users\HP\Downloads\phone\Mobile Free Download Png images (1).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymin>71</ymin>
+			<xmax>1290</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+</annotation>

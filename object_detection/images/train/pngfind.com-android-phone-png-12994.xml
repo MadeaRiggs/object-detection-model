@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>pngfind.com-android-phone-png-12994.png</filename>
+	<path>C:\Users\HP\Downloads\phone\pngfind.com-android-phone-png-12994.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>751</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>9</ymin>
+			<xmax>575</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+</annotation>

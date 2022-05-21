@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>Phone Android Mobile Phones Mobile.jpg</filename>
+	<path>C:\Users\HP\Downloads\phone\Phone Android Mobile Phones Mobile.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>8</ymin>
+			<xmax>546</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

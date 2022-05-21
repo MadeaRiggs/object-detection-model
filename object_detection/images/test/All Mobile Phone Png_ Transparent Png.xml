@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>All Mobile Phone Png_ Transparent Png.png</filename>
+	<path>C:\Users\HP\Downloads\phone\All Mobile Phone Png_ Transparent Png.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>36</ymin>
+			<xmax>507</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

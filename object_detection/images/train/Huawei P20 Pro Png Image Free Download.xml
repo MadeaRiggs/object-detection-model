@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>Huawei P20 Pro Png Image Free Download.png</filename>
+	<path>C:\Users\HP\Downloads\phone\Huawei P20 Pro Png Image Free Download.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>13</ymin>
+			<xmax>744</xmax>
+			<ymax>1256</ymax>
+		</bndbox>
+	</object>
+</annotation>

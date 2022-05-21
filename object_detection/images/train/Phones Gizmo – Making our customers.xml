@@ -1,0 +1,38 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>Phones Gizmo – Making our customers.png</filename>
+	<path>C:\Users\HP\Downloads\phone\Phones Gizmo – Making our customers.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>46</ymin>
+			<xmax>334</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>48</ymin>
+			<xmax>458</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

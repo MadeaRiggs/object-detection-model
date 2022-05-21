@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>Get iPhone 8 Plus 128GB Mobile Phone.jpg</filename>
+	<path>C:\Users\HP\Downloads\phone\Get iPhone 8 Plus 128GB Mobile Phone.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>737</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>6</ymin>
+			<xmax>737</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+</annotation>

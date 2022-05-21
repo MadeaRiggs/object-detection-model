@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phone</folder>
+	<filename>Mobile phone accessories png images.png</filename>
+	<path>C:\Users\HP\Downloads\phone\Mobile phone accessories png images.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>42</ymin>
+			<xmax>678</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>
